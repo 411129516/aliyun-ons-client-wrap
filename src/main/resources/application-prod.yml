@@ -1,0 +1,6 @@
+ons:
+  aliyun:
+    accessKey: test
+    accessSecret: test
+    instanceId: test
+    regionId: cn-shanghai
